@@ -1,0 +1,43 @@
+.spanClass{
+    display: block;
+     color:#821f40;
+     font-size: 23px;
+     font-weight: 450;
+   
+
+}
+
+.productsAreaHeading{
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.product_item{
+    height: 500px;
+    box-sizing: border-box;
+}
+.product_item_det_div{
+    height: 150px;
+  
+}
+   
+
+.product_item_img{
+    height: 300px;
+    width: 70%;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product_item_img img{
+    height: 50%;
+    width: 50%;
+}
+
+.trunketText{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
